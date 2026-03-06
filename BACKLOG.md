@@ -41,6 +41,9 @@ _(nothing currently)_
 - [ ] MIMO support validation — test with higher-dimensional systems
 - [ ] Comparison with MPC (using identified model) as baseline
 - [ ] Nonlinear DeePC variants
+- [ ] **DeePC-Hunt** — hybrid DeePC formulation combining data-driven and model-based elements (Lygeros et al.)
+- [ ] **Multi-domain vehicles** — extend to water (boat/USV) and air (quadrotor/UAV) vehicle models beyond the current land vehicle
+- [ ] **Navigation + tracking** — add path planning / navigation layer on top of the current trajectory tracking controller
 - [ ] Real-time plotting / live simulation visualization
 - [ ] Integration with ROS2 or CARLA simulator
 
